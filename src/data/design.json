@@ -1,0 +1,71 @@
+{
+  "title" : "Design",
+  "subtitle" : "UI/UX Designer, Web Developer, Copywriter, Social Media &amp; Email marketer",
+  "description" : "I&rsquo;ve created ads, branding, and graphics for clients ranging from individuals to international corporations. I can work with you no matter your size or setup.",
+  "categories" : [
+    {
+      "title" : "Logos & Branding",
+      "anchorname" : "logos",
+      "images" : [
+        {
+          "title" : "Micromeritics Learning Center",
+          "description" : "I designed a logo for a new educational program for a scientific instrument manufacturer.",
+          "datatoggle" : "micromeritics-modal",
+          "src" : "logos/micro/learningcenter.jpg",
+          "thumbnailSrc" : "logos/micro/learningcenterthumb.jpg",
+          "alt" : "Micromeritics Learning Center"
+        },
+        {
+          "title" : "Northeast Georgia Heart Center",
+          "description" : "I redesigned a logo for the state's leading cardiology clinic.",
+          "datatoggle" : "nghc-modal",
+          "src" : "logos/nghc/new-logo.png",
+          "thumbnailSrc" : "logos/nghc/new-logo-thumb.jpg",
+          "alt" : "Northeast Georgia Heart Center logo redesign"
+        },
+        {
+          "title" : "Bright Spot",
+          "description" : "Created a logo for a new cafeteria opening in the hospital in Gainesville, GA.",
+          "datatoggle" : "brightspot-modal",
+          "src" : "logos/nghs/bright-spot-final.png",
+          "thumbnailSrc" : "logos/nghs/bright-spot-final-thumb.jpg",
+          "alt" : "Bright Spot Cafeteria logo design"
+        }
+      ],
+      "description" : "Every company needs a recognizable brand to stay competitive and in the public&rsquo;s mind.",
+      "toolsused" : "Adobe Photoshop, Adobe Illustrator"
+    },
+    {
+      "title" : "Web Graphics",
+      "anchorname" : "web-graphics",
+      "images" : [
+        {
+          "title" : "Micromeritics Learning Center",
+          "description" : "I designed a logo for a new educational program for a scientific instrument manufacturer.",
+          "datatoggle" : "micromeritics-modal",
+          "src" : "web-graphics/micro/learningcenter.jpg",
+          "thumbnailSrc" : "web-graphics/micro/learningcenterthumb.jpg",
+          "alt" : "Micromeritics Learning Center"
+        }
+      ],
+      "description" : "Having a web presence is growing more important every day. From responsive websites to social media and online marketing, I can create a digital presence for you.",
+      "toolsused" : "Adobe Photoshop, Adobe Illustrator"
+    },
+    {
+      "title" : "Print Design",
+      "anchorname" : "print-design",
+      "images" : [
+        {
+          "title" : "Micromeritics Learning Center",
+          "description" : "I designed a logo for a new educational program for a scientific instrument manufacturer.",
+          "datatoggle" : "micromeritics-modal",
+          "src" : "logos/micro/learningcenter.jpg",
+          "thumbnailSrc" : "logos/micro/learningcenterthumb.jpg",
+          "alt" : "Micromeritics Learning Center"
+        }
+      ],
+      "description" : "Despite what you may have heard, print is not dead. From billboards and newspaper ads to trade show graphics, the right work will give you the boost you need to be the top in your field.",
+      "toolsused" : "Adobe Photoshop, Adobe Illustrator, QuarkXPress"
+    }
+  ]
+}
